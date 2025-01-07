@@ -7,5 +7,5 @@ content: |-
   You can use Markdown to format your content.
 showContent: true
 showEditor: false
-showTerminal: false
+showTerminal: true
 showExplorer: false
