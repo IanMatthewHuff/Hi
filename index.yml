@@ -9,5 +9,17 @@ contacts:
   - displayName: Ian Huff
     pictureUrl: https://avatars.githubusercontent.com/u/812783?v=4
     homePageUrl: https://github.com/IanMatthewHuff
+files:
+  - path: course1:unit1:lesson1:lessonpart2/dictionary.py
+    content: |-
+      # Thsi is where your code goes.
+      print("Hello there, George")
+  - path: course1:unit1:lesson1:lessonpart2/validate.py
+    content: |-
+      from pedal import *
+
+
+      gently("Hello world!")
 units:
   - unit1/index.yml
+  - unit2/index.yml

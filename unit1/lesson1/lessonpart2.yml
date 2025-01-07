@@ -4,5 +4,10 @@ title: Write test.py
 content: "# Enter your content here"
 showContent: true
 showEditor: true
-showTerminal: false
-showExplorer: false
+showTerminal: true
+showExplorer: true
+editors:
+  - type: py
+    path: course1:unit1:lesson1:lessonpart2/dictionary.py
+  - type: py
+    path: course1:unit1:lesson1:lessonpart2/validate.py
