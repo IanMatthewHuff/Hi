@@ -3,26 +3,11 @@ id: course1
 title: Hi
 level: beginner
 description: good times
+objectives: By the end of this lesson, learneres will be able to use dictionaries.
+prerequisites: Like, everything.
 contacts:
   - displayName: Ian Huff
     pictureUrl: https://avatars.githubusercontent.com/u/812783?v=4
     homePageUrl: https://github.com/IanMatthewHuff
 units:
-  - id: unit1
-    title: Introduction
-    objectives: Learn about the course and its objectives.
-    lessons:
-      - id: lesson1
-        title: About this course
-        objectives: Understand the course structure and objectives.
-        lessonParts:
-          - id: lessonpart1
-            title: Welcome to Hi
-            duration: 5
-            content: |-
-              **Welcome to the course authoring!**
-              You can use Markdown to format your content.
-            showContent: true
-            showEditor: false
-            showTerminal: false
-            showExplorer: false
+  - unit1/index.yml
